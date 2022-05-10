@@ -2,7 +2,7 @@
 # 💫About Me :
 - 👋 Hi, I’m Pascal and trying to be a Full Stack Developer from Lebanon. 
 - 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning HTML,CSS.
+- 🌱 I’m currently a student in SE Factory.
 - In my free time I draw and watch series.
 - 📫 How to reach me https://www.linkedin.com/in/pascal-abou-jaoude-b2449412b/
 
